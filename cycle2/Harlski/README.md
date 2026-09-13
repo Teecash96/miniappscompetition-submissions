@@ -6,7 +6,7 @@
 
 | Field | Value |
 | --- | --- |
-| Category | Games |
+| Category | Lifestyle |
 | Pricing | Free |
 | Team name | _Not provided — optional_ |
 | Team members | _Not provided — optional_ |
