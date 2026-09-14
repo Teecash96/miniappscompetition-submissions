@@ -22,7 +22,7 @@
 | --- | --- |
 | Repo | [https://github.com/Zhiyilang074811/nimiq-tipjar](<https://github.com/Zhiyilang074811/nimiq-tipjar>) |
 | Demo | [https://zhiyilang074811.github.io/nimiq-tipjar/](<https://zhiyilang074811.github.io/nimiq-tipjar/>) |
-| Video | [https://cdn.jsdelivr.net/gh/Zhiyilang074811/nimiq-tipjar@main/public/demo.gif](<https://cdn.jsdelivr.net/gh/Zhiyilang074811/nimiq-tipjar@main/public/demo.gif>) |
+| Video | [https://vimeo.com/1226478465](<https://vimeo.com/1226478465>) |
 | Skool post | _Not provided — optional_ |
 | Social post | _Not provided — optional_ |
 
