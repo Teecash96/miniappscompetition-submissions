@@ -6,8 +6,9 @@ import {
 } from '../lib/schema.mjs'
 
 test('category & pricing enums match the portal', () => {
-  assert.equal(CATEGORIES.length, 11)
+  assert.equal(CATEGORIES.length, 12)
   assert.ok(CATEGORIES.includes('Creator tools'))
+  assert.ok(CATEGORIES.includes('On-chain services'))
   assert.deepEqual(PRICING, ['Free', 'Freemium', 'Paid'])
 })
 

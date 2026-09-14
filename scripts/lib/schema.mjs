@@ -1,12 +1,12 @@
 // Schema constants for submission validation.
-// SOURCE OF TRUTH: nimiq/miniappscompetition frontend/server/utils/submission.ts
-// and frontend/server/utils/images.ts. Keep these mirrored — if the portal
-// changes an enum or cap, update it here too.
+// SOURCE OF TRUTH: nimiq/miniappscompetition shared/categories.ts (enums),
+// server/utils/submission.ts (caps) and server/utils/images.ts. Keep these
+// mirrored — if the portal changes an enum or cap, update it here too.
 
 export const CATEGORIES = [
   'Games', 'Social', 'Earning', 'Marketplaces', 'Productivity',
   'Creator tools', 'Education', 'Health & fitness', 'Food & dining',
-  'Shopping & deals', 'Lifestyle',
+  'Shopping & deals', 'Lifestyle', 'On-chain services',
 ]
 
 export const PRICING = ['Free', 'Freemium', 'Paid']
