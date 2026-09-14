@@ -1,4 +1,4 @@
-# Nimiq TipJar
+﻿# Nimiq TipJar
 
 > Send micro-tips in NIM directly inside Nimiq Pay with one click.
 
@@ -20,9 +20,9 @@
 
 | Link | URL |
 | --- | --- |
-| Repo | [https://github.com/Zhiyilang074811/nimiq-tipjar](<https://github.com/Zhiyilang074811/nimiq-tipjar>) |
-| Demo | [https://zhiyilang074811.github.io/nimiq-tipjar/](<https://zhiyilang074811.github.io/nimiq-tipjar/>) |
-| Video | [https://vimeo.com/1226478465](<https://vimeo.com/1226478465>) |
+| Repo | [https://github.com/Zhiyilang074811/nimiq-tipjar](https://github.com/Zhiyilang074811/nimiq-tipjar) |
+| Demo | [https://zhiyilang074811.github.io/nimiq-tipjar/](https://zhiyilang074811.github.io/nimiq-tipjar/) |
+| Video | [https://vimeo.com/1226478465](https://vimeo.com/1226478465) |
 | Skool post | _Not provided — optional_ |
 | Social post | _Not provided — optional_ |
 
