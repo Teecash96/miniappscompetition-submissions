@@ -21,14 +21,14 @@
 | Link | URL |
 | --- | --- |
 | Repo | [https://github.com/LegendaryTunzeverywhere/PROOF](<https://github.com/LegendaryTunzeverywhere/PROOF>) |
-| Demo | [https://youtu.be/IYAdBWNSW-A](<https://youtu.be/IYAdBWNSW-A>) |
-| Video | [https://youtu.be/SsESRbMoURo](<https://youtu.be/SsESRbMoURo>) |
+| Demo | [https://proof.nimagent.online](<https://proof.nimagent.online>) |
+| Video | [https://youtu.be/IYAdBWNSW-A](<https://youtu.be/IYAdBWNSW-A>) |
 | Skool post | [https://www.skool.com/miniappscompetition/proof-is-live?p=9e9a7841](<https://www.skool.com/miniappscompetition/proof-is-live?p=9e9a7841>) |
 | Social post | [https://x.com/NimiqAgent/status/2099008257461227894?s=20](<https://x.com/NimiqAgent/status/2099008257461227894?s=20>) |
 
 ## Description
 
-Proof turns learning into demonstrated ability and earns NIM cryptocurrency rewards. AI-powered skill 
+Proof turns learning into demonstrated ability and earns NIM cryptocurrency rewards. AI-powered skill
 paths, real-world challenges, and verified proofs that unlock opportunities.
 
 ## Builder story
