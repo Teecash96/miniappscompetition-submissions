@@ -22,7 +22,7 @@
 | --- | --- |
 | Repo | [https://github.com/Aremuibrahim2222/Nimiq-deals.git](<https://github.com/Aremuibrahim2222/Nimiq-deals.git>) |
 | Demo | [https://nimiq-deals-38zr-iprwoarfv.vercel.app](<https://nimiq-deals-38zr-iprwoarfv.vercel.app>) |
-| Video | [https://x.com/aremu_ibrah1m/status/2099447450687729823/video/1](<https://x.com/aremu_ibrah1m/status/2099447450687729823/video/1>) |
+| Video | [https://x.com/aremu_ibrah1m/status/2099447450687729823](<https://x.com/aremu_ibrah1m/status/2099447450687729823>) |
 | Skool post | [https://www.skool.com/miniappscompetition/building-nimiq-deals?p=92356961](<https://www.skool.com/miniappscompetition/building-nimiq-deals?p=92356961>) |
 | Social post | [https://x.com/aremu_ibrah1m/status/2099447450687729823](<https://x.com/aremu_ibrah1m/status/2099447450687729823>) |
 
@@ -40,7 +40,7 @@ While exploring the Nimiq Mini Apps ecosystem, I saw an opportunity to combine s
 
 The problem I’m trying to solve is the gap between owning crypto and actually spending it in a practical way. Shopping is something people already understand, so I wanted to create a familiar experience while making Nimiq payments useful in a real world context.
 
-I kept the idea intentionally simple: 
+I kept the idea intentionally simple:
 find a deal → pay with Nimiq → earn cashback → come back for another deal.
 
 As a solo builder, I also wanted Nimiq Deals to be a practical demonstration of what can be built with Nimiq Pay Mini Apps and how crypto payments can fit naturally into everyday experiences.
