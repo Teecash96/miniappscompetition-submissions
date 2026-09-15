@@ -28,13 +28,11 @@
 
 ## Description
 
-Two beats rather than one, and it names a competitor on purpose: it is the sharpest true
-sentence about this product, and a judge reading forty entries remembers the one that took a
-position.
+Play chess in Nimiq Pay: both players sign the result with their own wallet, and the rating is derived from those two signatures rather than stored on our server — so anyone can recompute it in their own browser, and nobody can revoke it. For everyone who has lost a rating to a closed account, a deleted profile, or a site that shut down.
 
 ## Builder story
 
-Must Visit : https://comfortable-goal-205.notion.site/Scoresheet-Nimiq-Mini-Apps-Cycle-2-3db9c0ce787681d698d2f2aeac873450?source=copy_link 
+Must Visit : https://comfortable-goal-205.notion.site/Scoresheet-Nimiq-Mini-Apps-Cycle-2-3db9c0ce787681d698d2f2aeac873450?source=copy_link
 
 I kept losing ratings. Not games — ratings. An account closed, a platform shut down, a number that was mine right up until it wasn't, because it never lived anywhere I controlled.
 

@@ -1,13 +1,10 @@
 app_name: Scoresheet
 category: Games
 tagline: Chess.com owns your rating. Here you and your opponent sign for it.
-description: "Two beats rather than one, and it names a competitor on purpose:
-  it is the sharpest true\r
-
-  sentence about this product, and a judge reading forty entries remembers the
-  one that took a\r
-
-  position."
+description: "Play chess in Nimiq Pay: both players sign the result with their own wallet,
+  and the rating is derived from those two signatures rather than stored on our server —
+  so anyone can recompute it in their own browser, and nobody can revoke it. For everyone
+  who has lost a rating to a closed account, a deleted profile, or a site that shut down."
 pricing: Free
 repo_url: https://github.com/Pratiikpy/scoresheet
 demo_url: https://chess-liard-sigma.vercel.app
