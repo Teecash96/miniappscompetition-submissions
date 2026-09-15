@@ -11,7 +11,7 @@ description: "NimCircle is a Nimiq Pay Mini App for coordinating shared savings
   the Circle, send NIM through Nimiq Pay"
 pricing: Free
 repo_url: https://github.com/KAOS-CODM/nimcircle
-demo_url: https://nimpay.app/miniapps/open/nimcircle.vercel.app
+demo_url: https://nimcircle.vercel.app
 video_url: https://youtu.be/xSEl5Qs-s1I
 contact_email: klasikyemite04@gmail.com
 team_name: null

@@ -21,7 +21,7 @@
 | Link | URL |
 | --- | --- |
 | Repo | [https://github.com/KAOS-CODM/nimcircle](<https://github.com/KAOS-CODM/nimcircle>) |
-| Demo | [https://nimpay.app/miniapps/open/nimcircle.vercel.app](<https://nimpay.app/miniapps/open/nimcircle.vercel.app>) |
+| Demo | [https://nimcircle.vercel.app](<https://nimcircle.vercel.app>) |
 | Video | [https://youtu.be/xSEl5Qs-s1I](<https://youtu.be/xSEl5Qs-s1I>) |
 | Skool post | _Not provided — optional_ |
 | Social post | [https://x.com/De_Ice1/status/2099808640089706515?s=20](<https://x.com/De_Ice1/status/2099808640089706515?s=20>) |
