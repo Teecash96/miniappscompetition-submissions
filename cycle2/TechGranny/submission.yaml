@@ -1,0 +1,28 @@
+app_name: NimPuzzle
+category: Games
+tagline: Guess the word. Stake NIM. Win the pool
+description: NimPuzzle is a daily crypto word game built for Nimiq Pay. Stake
+  NIM, solve a new Web3-themed word in 6 attempts, build your streak, climb the
+  leaderboard, and compete for the daily prize pool.
+pricing: Paid
+repo_url: https://github.com/victorhez/nimpuzzle_main
+demo_url: https://nimpuzzle-main.vercel.app
+video_url: https://youtu.be/To_Wwuw_504?si=MCSgkW2vFGpeZjLX
+contact_email: chideraugorjij@gmail.com
+team_name: null
+team_members: null
+x_account: https://x.com/Crypt_marsh
+builder_story: null
+skool_post_url: https://www.skool.com/miniappscompetition/nimpuzzle?p=a8a372a2
+social_post_url: https://x.com/Crypt_marsh/status/2095487481000956269
+heard_about: null
+icon: icon.jpg
+thumbnail: thumbnail.jpg
+screenshots:
+  - screenshot-1.jpg
+  - screenshot-2.jpg
+  - screenshot-3.jpg
+  - screenshot-4.jpg
+  - screenshot-5.jpg
+github_login: TechGranny
+submitted_at: 2026-09-16T10:28:34.447Z
