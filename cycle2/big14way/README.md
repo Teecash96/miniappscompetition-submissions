@@ -21,7 +21,7 @@
 | Link | URL |
 | --- | --- |
 | Repo | [https://github.com/big14way/nimstamp](<https://github.com/big14way/nimstamp>) |
-| Demo | [https://nimpay.app/miniapps/open/nimstamp.vercel.app](<https://nimpay.app/miniapps/open/nimstamp.vercel.app>) |
+| Demo | [https://nimstamp.vercel.app](<https://nimstamp.vercel.app>) |
 | Video | [https://youtu.be/_u_yXShSigw](<https://youtu.be/_u_yXShSigw>) |
 | Skool post | [https://www.skool.com/miniappscompetition/nimstamp-loyalty-stamp-cards-for-any-merchant-inside-nimiq-pay](<https://www.skool.com/miniappscompetition/nimstamp-loyalty-stamp-cards-for-any-merchant-inside-nimiq-pay>) |
 | Social post | [https://x.com/blobis_yobo/status/2099877926510670263](<https://x.com/blobis_yobo/status/2099877926510670263>) |
