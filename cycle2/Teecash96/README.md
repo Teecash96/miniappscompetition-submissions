@@ -9,7 +9,7 @@
 | Category | Productivity |
 | Pricing | Free |
 | Team name | Akanbi Labs |
-| Team members | Codex |
+| Team members | Ademola|
 | X account | Akanbilabs |
 | Heard about it via | X |
 | Contact email | toheebmuraina@gmail.com |
